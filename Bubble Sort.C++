@@ -37,7 +37,7 @@ int main()
     cout << "Sorted array: ";
     for(int i = 0; i < n; i++)
     {
-        cout << arr[i] << " ";
+        cout << arr[i] << "5 ";
     }
 
     return 0;
