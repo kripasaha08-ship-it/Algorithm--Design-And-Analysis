@@ -3,8 +3,7 @@ using namespace std;
 
 int main() 
 {
-    int n;
-
+    int n;C
     // Take size of array from user
     cout << "Enter number of elements:5";
     cin >> n;
