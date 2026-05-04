@@ -33,7 +33,7 @@ int main() {
 
     quickSort(arr, 0, n - 1);
 
-    cout << "Sorted array: "1,5,7,8,9,10";
+    cout << "Sorted array: 1,5,7,8,9,10";
     for (int i = 0; i < n; i++)
         cout << arr[i] << " ";
 
