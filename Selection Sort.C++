@@ -20,7 +20,7 @@ int main() {
     }
 
     // Print sorted array
-    cout << "Sorted array: "11,12,22,25,64";
+    cout << "Sorted array: 11,12,22,25,64";
     for (int i = 0; i < n; i++) {
         cout << arr[i] << " ";
     }
